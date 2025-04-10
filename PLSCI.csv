@@ -1,0 +1,945 @@
+Port_Label,Index_Value
+"Albania, Durres",30.7
+"Algeria, Algiers",133.26
+"Algeria, Annaba",57.1
+"Algeria, Bejaia",49.39
+"Algeria, Ghazaouet",21.09
+"Algeria, Mostaganem",11.79
+"Algeria, Oran",57.17
+"Algeria, Skikda",43.96
+"American Samoa, Pago Pago",58.58
+"Angola, Cabinda",7.63
+"Angola, Lobito",42.3
+"Angola, Luanda",119.19
+"Angola, Malongo",8.6
+"Angola, Namibe",20.06
+"Angola, Soyo",26.51
+"Anguilla, Anguilla",21.66
+"Antigua and Barbuda, St John's (AG)",31.71
+"Argentina, Bahia Blanca",50.18
+"Argentina, Buenos Aires",199.29
+"Argentina, Puerto Madryn",42.63
+"Argentina, Rosario",35.83
+"Argentina, Ushuaia",12.25
+"Argentina, Zarate",33.29
+"Aruba, Barcadera",24.6
+"Aruba, Oranjestad",60.84
+"Australia, Adelaide",124.31
+"Australia, Bell Bay",13.64
+"Australia, Brisbane",263.04
+"Australia, Burnie",18.88
+"Australia, Cairns",6.59
+"Australia, Dampier",7.28
+"Australia, Darwin",36.72
+"Australia, Devonport",16.53
+"Australia, Fremantle",128.36
+"Australia, Geelong",7.82
+"Australia, Melbourne",294.15
+"Australia, Newcastle",22.82
+"Australia, Port Botany",13.64
+"Australia, Port Hedland",12.78
+"Australia, Port Kembla",10.04
+"Australia, Sydney",252.22
+"Australia, Townsville",60.19
+"Australia, Weipa",6.59
+"Bahamas, Freeport (BS)",189.9
+"Bahamas, Nassau",36.48
+"Bahrain, Bahrain",103.37
+"Bangladesh, Chittagong",194.21
+"Bangladesh, Mongla",19.63
+"Barbados, Bridgetown",73.58
+"Belgium, Antwerp",941.73
+"Belgium, Ghent",11.25
+"Belgium, Zeebrugge",171.38
+"Belize, Belize City",25.83
+"Belize, Big Creek",20.62
+"Benin, Cotonou",155.69
+"Bermuda, Hamilton (BM)",20.03
+"Bonaire, Sint Eustatius and Saba, Kralendijk",18.69
+"Brazil, Fortaleza",30.18
+"Brazil, Imbituba",29.64
+"Brazil, Itajai",126.21
+"Brazil, Itapoa",160.28
+"Brazil, Macapa",43.16
+"Brazil, Manaus",76.53
+"Brazil, Natal",22.99
+"Brazil, Navegantes",158.48
+"Brazil, Paranagua",206.43
+"Brazil, Pecem",79.46
+"Brazil, Rio de Janeiro",172.33
+"Brazil, Rio Grande",178.74
+"Brazil, Salvador",151.35
+"Brazil, Santos",278.02
+"Brazil, Sao Luis",14.09
+"Brazil, Sepetiba",114.38
+"Brazil, Suape",121
+"Brazil, Vila do Conde",64.71
+"Brazil, Vitoria",43.18
+"British Virgin Islands, Tortola",29.74
+"British Virgin Islands, Virgin Gorda",21.66
+"Brunei Darussalam, Muara",44.2
+"Bulgaria, Bourgas",43.95
+"Bulgaria, Varna",28.02
+"Cabo Verde, Mindelo",24.3
+"Cabo Verde, Palmeira",9.05
+"Cabo Verde, Porto Praia",24.3
+"Cabo Verde, Sal Rei",17.23
+"Cambodia, Sihanoukville",101.14
+"Cameroon, Douala",108.07
+"Cameroon, Kribi",80.37
+"Canada, Argentia",11.32
+"Canada, Corner Brook",22.56
+"Canada, Halifax",189.73
+"Canada, Montreal",96.62
+"Canada, New Westminster",13.54
+"Canada, Prince Rupert",96.1
+"Canada, Saint John",43.74
+"Canada, Squamish",10.95
+"Canada, St John's (CA)",15.15
+"Canada, Toronto",7.87
+"Canada, Vancouver (CA)",240.49
+"Cayman Islands, George Town",18.77
+"Chile, Antofagasta",79.55
+"Chile, Arica",70.18
+"Chile, Coronel",110.56
+"Chile, Iquique",95.23
+"Chile, Lirquen",86.37
+"Chile, Puerto Angamos",126.39
+"Chile, Punta Arenas",9.84
+"Chile, San Antonio (CL)",157.23
+"Chile, San Vicente",51.83
+"Chile, Valparaiso",71.32
+"China, Caodeidian",20.28
+"China, Changshu",29.8
+"China, Da chan Bay",136.02
+"China, Dafeng",18.4
+"China, Dalian",498.91
+"China, Dandon",20.92
+"China, Dongguan",8.66
+"China, Fuqing",99.96
+"China, Fuzhou",146.92
+"China, Haikou",44.6
+"China, Hong Kong SAR, Hong Kong",1284.85
+"China, Huangpu",68.03
+"China, Huizhou",10.39
+"China, Humen",59.71
+"China, Jiangyin",69.51
+"China, Jingtang",12.37
+"China, Jinzhou",55.82
+"China, Jiujiang",11.64
+"China, Lianyungang",266.94
+"China, Nanjing",43.45
+"China, Nansha",681.84
+"China, Nantong",43.09
+"China, Ningbo",1562.14
+"China, Qingdao",1040.05
+"China, Qinzhou",174.24
+"China, Quanzhou",95.06
+"China, Rizhao",96.08
+"China, Shanghai",1974.47
+"China, Shantou",156.87
+"China, Shekou",979.88
+"China, Shenzhen",8.22
+"China, Shidao",14.29
+"China, Taicang",86.27
+"China, Taiwan Province of, Kaohsiung",915.6
+"China, Taiwan Province of, Keelung",315.87
+"China, Taiwan Province of, Taichung",325.34
+"China, Taiwan Province of, Taipei",271.73
+"China, Tangshan",55.82
+"China, Weifang",12.37
+"China, Weihai",36.42
+"China, Wenzhou",38.8
+"China, Wiehai",19.03
+"China, Wuhan",20.15
+"China, Xiamen",833.44
+"China, Xingang",655.11
+"China, Yangpu",90.16
+"China, Yantai",95.93
+"China, Yantian",804.01
+"China, Yingkou",113.23
+"China, Zhangjiagang",57.23
+"China, Zhangzhou",33.82
+"China, Zhanjiang",59.54
+"China, Zhuhai",58.37
+"Christmas Island, Flying Fish Cove",7.42
+"Colombia, Barranquilla",78.33
+"Colombia, Buenaventura",181.02
+"Colombia, Cartagena (CO)",359.73
+"Colombia, Leticia",12.2
+"Colombia, Puerto Bolivar (CO)",15.31
+"Colombia, San Andres",8.45
+"Colombia, Santa Marta",110.13
+"Colombia, Tolu",12.2
+"Colombia, Turbo",75.37
+"Comoros, Moroni",28.43
+"Comoros, Mutsamudu",32.16
+"Congo, Pointe Noire",150.77
+"Cook Islands, Aitutaki",15.38
+"Cook Islands, Rarotonga",20.05
+"Costa Rica, Caldera",54
+"Costa Rica, Limon",110.63
+"Costa Rica, Moin",138.16
+"Cote d'Ivoire, Abidjan",158.46
+"Cote d'Ivoire, San Pedro (CI)",72.42
+"Croatia, Ploce",21.03
+"Croatia, Rijeka",129.4
+"Croatia, Split",12.77
+"Cuba, Mariel",54.62
+"Cuba, Moa",13.49
+"Cuba, Santiago",18.83
+"Curacao, Willemstad",68.44
+"Cyprus, Limassol",125.81
+"Dem. Rep. of the Congo, Banana",13.7
+"Dem. Rep. of the Congo, Boma",10.51
+"Dem. Rep. of the Congo, Matadi",33.02
+"Denmark, Aalborg",33.66
+"Denmark, Aarhus",166.44
+"Denmark, Copenhagen",30.64
+"Denmark, Esbjerg",23.9
+"Denmark, Fredericia",50.84
+"Denmark, Grenaa",12.11
+"Denmark, Hundested",12.11
+"Denmark, Kalundborg",13.08
+"Denmark, Skagen",11.84
+"Djibouti, Djibouti",167.6
+"Dominica, Roseau",47.8
+"Dominican Republic, Caucedo",232.53
+"Dominican Republic, Manzanillo (DO)",13.45
+"Dominican Republic, Puerto Plata",34.89
+"Dominican Republic, Rio Haina",127
+"Ecuador, Guayaquil",252.66
+"Ecuador, Manta",15.65
+"Ecuador, Posorja",69.25
+"Ecuador, Puerto Bolivar (EC)",71.19
+"Egypt, Alexandria",258.27
+"Egypt, Damietta",196.61
+"Egypt, El Dekheila",45.3
+"Egypt, El Sokhna",126.88
+"Egypt, Port Said",367.72
+"El Salvador, Acajutla",44.92
+"El Salvador, San Salvador",21.96
+"Equatorial Guinea, Bata",58.04
+"Equatorial Guinea, Malabo",63.81
+"Eritrea, Massawa",23.73
+"Estonia, Kunda",8.31
+"Estonia, Muuga",14.14
+"Estonia, Paldiski",27.29
+"Estonia, Tallinn",42.95
+"Faroe Islands, Kollafjordur",13.87
+"Faroe Islands, Torshavn",30.87
+"Fiji, Lautoka",74.38
+"Fiji, Suva",76.34
+"Finland, Hamina",7.84
+"Finland, Hanko",22.41
+"Finland, Helsinki",84.96
+"Finland, Kemi",12.59
+"Finland, Kokkola (Karleby)",12.59
+"Finland, Kotka",92.49
+"Finland, Oulu",12.59
+"Finland, Pietarsaari (Jakobstad)",12.15
+"Finland, Pori (Bjorneborg)",8.95
+"Finland, Rauma",64.49
+"Finland, Tornio",21.39
+"Finland, Turku",12.11
+"Finland, Valkom (Valko)",15.88
+"France, Bassens",11.16
+"France, Brest",22.21
+"France, Dunkirk",185.68
+"France, Fos",303.96
+"France, La Pallice",20.89
+"France, La Rochelle",11.16
+"France, Le Havre",501.56
+"France, Marseilles",66.58
+"France, Montoir",62.56
+"France, Port Vendres",9.86
+"France, Radicatel",13.18
+"France, Rouen",30.07
+"France, Sete",14.18
+"French Guiana, Degrad des Cannes",28.99
+"French Polynesia, Bora Bora",5.9
+"French Polynesia, Papeete",86.57
+"Gabon, Libreville",47.56
+"Gabon, Port Gentil",43.56
+"Gambia, Banjul",32.84
+"Georgia, Batumi",23.1
+"Georgia, Poti",35.04
+"Germany, Brake",13.54
+"Germany, Bremen",43.15
+"Germany, Bremerhaven",465.12
+"Germany, Cuxhaven",13.87
+"Germany, Emden",18.84
+"Germany, Hamburg",716.16
+"Germany, Kiel",11.35
+"Germany, Lubeck",43.93
+"Germany, Rostock",18.53
+"Germany, Travemunde",15.8
+"Germany, Wilhelmshaven",158.92
+"Ghana, Takoradi",42.43
+"Ghana, Tema",237.12
+"Gibraltar, Gibraltar",15.01
+"Greece, Heraklion",10.68
+"Greece, Piraeus",471.45
+"Greece, Thessaloniki",83.75
+"Greece, Volos",10.68
+"Greenland, Nuuk",28.3
+"Greenland, Sisimiut",13.44
+"Grenada, St George's",48.11
+"Guadeloupe, Gustavia",28.81
+"Guadeloupe, Pointe-a-Pitre",76.87
+"Guam, Apra",43.08
+"Guam, Piti",14.17
+"Guatemala, Puerto Barrios",89.76
+"Guatemala, Puerto Quetzal",138.48
+"Guatemala, Santo Tomas de Castilla",80.88
+"Guinea, Conakry",42.45
+"Guinea-Bissau, Bissau",21.68
+"Guyana, Georgetown (GY)",73.72
+"Haiti, Cap Haitien",24.13
+"Haiti, Laffiteau",43.59
+"Haiti, Port-au-Prince",61.61
+"Honduras, Puerto Castilla",16.8
+"Honduras, Puerto Cortes",115.7
+"Honduras, Roatan I",8.31
+"Honduras, San Lorenzo",25.28
+"Iceland, Bildudalur",9.72
+"Iceland, Grundarfjordur, Sanafellness",24.55
+"Iceland, Reydharfjordur",29.54
+"Iceland, Reykjavik",50.27
+"Iceland, Vestmannaeyjar",21.86
+"India, Chennai",155.88
+"India, Cochin",132.77
+"India, Ennore",23.8
+"India, Haldia",42.41
+"India, Hazira",172.15
+"India, Kandla",60.21
+"India, Kattupalli",115.25
+"India, Kolkata (Calcutta)",80.9
+"India, Krishnapatnam",95.97
+"India, Mangalore",25.07
+"India, Mormugao",24.62
+"India, Mumbai",39.92
+"India, Mundra",427.1
+"India, New Mangalore",19.91
+"India, Nhava Sheva",424.18
+"India, Paradip",16.42
+"India, Pipavav",133.35
+"India, Port Blair",16.41
+"India, Tuticorin",124.09
+"India, Visakhapatnam",102.39
+"Indonesia, Ambon",29.93
+"Indonesia, Balikpapan",38.66
+"Indonesia, Banjarmasin",15.5
+"Indonesia, Batam Island",12.96
+"Indonesia, Belawan",94.34
+"Indonesia, Benete Bay",14.47
+"Indonesia, Bengkulu",9.97
+"Indonesia, Benoa",8.46
+"Indonesia, Bitung",52.61
+"Indonesia, Gorontalo",17.9
+"Indonesia, Jakarta",424.35
+"Indonesia, Jayapura",25.18
+"Indonesia, Kendari",8.9
+"Indonesia, Kumai",7.67
+"Indonesia, Kupang",15.52
+"Indonesia, Luwuk",5.94
+"Indonesia, Makassar",99.46
+"Indonesia, Maumere",8.9
+"Indonesia, Medan",18.81
+"Indonesia, Merauke",7.26
+"Indonesia, Padang",33.84
+"Indonesia, Palembang",37.65
+"Indonesia, Panjang",43.24
+"Indonesia, Pantoloan",21.78
+"Indonesia, Pekanbaru, Sumatra",8.53
+"Indonesia, Perawang",7.69
+"Indonesia, Pontianak",34.96
+"Indonesia, Samarinda",29.5
+"Indonesia, Semarang",112.83
+"Indonesia, Sorong",24.81
+"Indonesia, Surabaya",296.84
+"Indonesia, Tanjung Pinang",7.08
+"Indonesia, Tarakan",8.63
+"Indonesia, Ternate",6.45
+"Indonesia, Timika",7.26
+"Indonesia, Tolitoli",7.16
+"Indonesia, Tual",9.22
+"Iran (Islamic Republic of), Abadan",8.35
+"Iran (Islamic Republic of), Asaluyeh",7.18
+"Iran (Islamic Republic of), Bandar Abbas",117.89
+"Iran (Islamic Republic of), Bandar Assaluyeh",14.23
+"Iran (Islamic Republic of), Bandar Imam Khomeini",14.23
+"Iran (Islamic Republic of), Bushehr",14.23
+"Iran (Islamic Republic of), Khorramshahr",8.35
+"Iraq, Abu al Fulus",9.46
+"Iraq, Basrah",8.35
+"Iraq, Umm Qasr",165.57
+"Ireland, Cork",69.58
+"Ireland, Dublin",103.14
+"Ireland, Waterford",30.36
+"Israel, Ashdod",225.73
+"Israel, Haifa",261.13
+"Italy, Ancona",66.35
+"Italy, Bari",21.91
+"Italy, Cagliari",11.9
+"Italy, Catania",33.06
+"Italy, Civitavecchia",75.23
+"Italy, Genoa",377.09
+"Italy, Gioia Tauro",286.19
+"Italy, La Spezia",209.9
+"Italy, Leghorn",187.4
+"Italy, Marina di Carrara",25.79
+"Italy, Naples",141.44
+"Italy, Olbia",13.49
+"Italy, Palermo",11.9
+"Italy, Pozzuoli",12.02
+"Italy, Ravenna",71.11
+"Italy, Salerno",107.5
+"Italy, Savona",14.18
+"Italy, Taranto",25.02
+"Italy, Trapani",18.4
+"Italy, Trieste",133.86
+"Italy, Vado Ligure",65.1
+"Italy, Venice",107.91
+"Jamaica, Kingston (JM)",276.36
+"Jamaica, Montego Bay",34.58
+"Japan, Aburatsu",14.83
+"Japan, Akita",43.85
+"Japan, Chiba",53.71
+"Japan, Fukuyama",62.68
+"Japan, Hachinoe",37.44
+"Japan, Hakata",221.41
+"Japan, Hibikishinko",20.46
+"Japan, Hiroshima",91.62
+"Japan, Hitachi",24.28
+"Japan, Hososhima",69.31
+"Japan, Imabari",26.9
+"Japan, Imari",39.68
+"Japan, Ishikariwan Shinko",35.91
+"Japan, Iwakuni",41.15
+"Japan, Iyomishima",38.93
+"Japan, Kanazawa",52.25
+"Japan, Kashima",17.82
+"Japan, Kawasaki",95.36
+"Japan, Kitakyushu/Hibiki",34.84
+"Japan, Kobe",528.8
+"Japan, Kochi",14.84
+"Japan, Kumamoto",13.46
+"Japan, Maizuru",24.56
+"Japan, Matsuyama",54.22
+"Japan, Miike",9.55
+"Japan, Mishima, Kawanoe",26.45
+"Japan, Mitajiri",13.04
+"Japan, Mizushima",97.78
+"Japan, Moji",216.28
+"Japan, Muroran",18.1
+"Japan, Nagasaki",13.46
+"Japan, Nagoya",481.44
+"Japan, Naha",71.02
+"Japan, Naoetsu",25.27
+"Japan, Niigata",60.16
+"Japan, Oita",54.86
+"Japan, Omaezaki",34.36
+"Japan, Onahama",24.93
+"Japan, Osaka",424.77
+"Japan, Otake",17.98
+"Japan, Otaru",13.61
+"Japan, Sakai",17.19
+"Japan, Sakaiminato",44.56
+"Japan, Sakata",36.52
+"Japan, Senboku",11.74
+"Japan, Sendai",79.38
+"Japan, Shibushi",66.42
+"Japan, Shimizu",221.5
+"Japan, Takamatsu",40.44
+"Japan, Tokushima",29.42
+"Japan, Tokuyama",77.09
+"Japan, Tokyo",564.41
+"Japan, Tomakomai",76.75
+"Japan, Toyama Shinko",41.65
+"Japan, Toyohashi",26.56
+"Japan, Tsuruga",21.85
+"Japan, Ube",21.43
+"Japan, Wakayama",12.96
+"Japan, Yatsushiro",21.22
+"Japan, Yokkaichi",121.38
+"Japan, Yokohama",705.2
+"Jordan, Aqaba",153.1
+"Kenya, Mombasa",133.91
+"Kiribati, Betio",23.94
+"Kuwait, Shuaiba",68.17
+"Kuwait, Shuwaikh",61.88
+"Latvia, Riga",75.69
+"Lebanon, Beirut",212.15
+"Lebanon, Tripoli (LB)",99.79
+"Liberia, Monrovia",26.88
+"Libya, Benghazi",54.82
+"Libya, Khoms",42.53
+"Libya, Marsa el Brega",11.4
+"Libya, Misurata",94.02
+"Libya, Tripoli (LY)",55.79
+"Lithuania, Klaipeda",107.38
+"Madagascar, Antsiranana",22.43
+"Madagascar, Ehoala",14.87
+"Madagascar, Mahajanga",28.75
+"Madagascar, Nosy Be",12.01
+"Madagascar, Toamasina",41.39
+"Madagascar, Toliary",14.87
+"Malaysia, Bintulu",53.2
+"Malaysia, Kota Kinabalu",72.65
+"Malaysia, Kuantan",62.51
+"Malaysia, Kuching",42.7
+"Malaysia, Labuan",27.35
+"Malaysia, Pasir Gudang",224.58
+"Malaysia, Penang",139.57
+"Malaysia, Port Klang",1024.82
+"Malaysia, Sandakan",15.14
+"Malaysia, Sibu",6.83
+"Malaysia, Tanjung Pelepas",550.47
+"Malaysia, Tawau",34.89
+"Maldives, Male",38.14
+"Malta, Marsaxlokk",279.35
+"Marshall Islands, Kwajalein",19.68
+"Marshall Islands, Majuro",42.95
+"Martinique, Fort de France",84.17
+"Mauritania, Nouadhibou",35.38
+"Mauritania, Nouakchott",58.19
+"Mauritius, Port Louis",155.43
+"Mauritius, Port Mathurin",7.78
+"Mayotte, Longoni",31.36
+"Mexico, Altamira",181.06
+"Mexico, Coatzacoalcos",9.2
+"Mexico, Ensenada",86.16
+"Mexico, Guaymas",21.74
+"Mexico, Lazaro Cardenas",168.47
+"Mexico, Manzanillo (MX)",229.86
+"Mexico, Mazatlan",30.54
+"Mexico, Progreso",74.62
+"Mexico, Puerto Chiapas",21.29
+"Mexico, Puerto Morelos",8.04
+"Mexico, Santa Rosalia",15.1
+"Mexico, Tampico",27.6
+"Mexico, Tuxpan",10.25
+"Mexico, Veracruz",225.08
+"Micronesia (Federated States of), Kosrae",24.95
+"Micronesia (Federated States of), Pohnpei",24.95
+"Micronesia (Federated States of), Truk",13.75
+"Micronesia (Federated States of), Yap",11.72
+"Montenegro, Bar",33.72
+"Montserrat, Plymouth (MS)",21.66
+"Morocco, Agadir",52.25
+"Morocco, Casablanca",174.55
+"Morocco, Nador",12.06
+"Morocco, Tanger Med",490.2
+"Mozambique, Beira",66.92
+"Mozambique, Maputo",88.79
+"Mozambique, Nacala",40.75
+"Mozambique, Palma (MZ)",9.31
+"Mozambique, Pemba",22.01
+"Mozambique, Quelimane",8.55
+"Myanmar, Rangoon",101.19
+"Myanmar, Thilawa",44.51
+"Namibia, Luderitz",13.19
+"Namibia, Walvis Bay",76.08
+"Netherlands (Kingdom of the), Amsterdam",46.03
+"Netherlands (Kingdom of the), Botlek",19.94
+"Netherlands (Kingdom of the), Ijmuiden",13.83
+"Netherlands (Kingdom of the), Moerdijk",69.41
+"Netherlands (Kingdom of the), Rotterdam",998.4
+"Netherlands (Kingdom of the), Terneuzen",10.7
+"Netherlands (Kingdom of the), Vlissingen",145.54
+"New Caledonia, Noumea",89.17
+"New Caledonia, Prony",14.93
+"New Zealand, Auckland",176.82
+"New Zealand, Bluff Harbour",29.05
+"New Zealand, Lyttelton",98.16
+"New Zealand, Marsden Point",43.13
+"New Zealand, Napier",109.74
+"New Zealand, Nelson",40.16
+"New Zealand, Port Chalmers",56.61
+"New Zealand, Tauranga",184.28
+"New Zealand, Timaru",65.95
+"New Zealand, Wellington",62.88
+"Nicaragua, Corinto",44.92
+"Nicaragua, Rama (Arlen Siu)",20.88
+"Nigeria, Apapa",78.21
+"Nigeria, Calabar",8.5
+"Nigeria, Lagos",99.01
+"Nigeria, Lekki",10.11
+"Nigeria, Onne",79.52
+"Nigeria, Port Harcourt",23.92
+"Nigeria, Tin Can Island",91.24
+"Niue, Alofi",11.32
+"Norfolk Island, Norfolk I",6.48
+"Northern Mariana Islands, Saipan Island",32.57
+"Norway, Aalesund",72.97
+"Norway, Ardalstangen",10.21
+"Norway, Averoy",12.52
+"Norway, Bergen",75.16
+"Norway, Bodo",13.83
+"Norway, Brevik",28.46
+"Norway, Drammen",28.98
+"Norway, Egersund",20.59
+"Norway, Floro",37.33
+"Norway, Fredrikstad",28.73
+"Norway, Fusa",14.07
+"Norway, Gjemnes",21.3
+"Norway, Glomfjord",12.52
+"Norway, Haavik",21.78
+"Norway, Hammerfest",13.83
+"Norway, Harstad",13.83
+"Norway, Haugesund",58.39
+"Norway, Hitra",8.68
+"Norway, Hoyanger",12.7
+"Norway, Ikornnes",14.34
+"Norway, Kristiansand",63.97
+"Norway, Kvinesdal",10.48
+"Norway, Larvik",38.99
+"Norway, Maaloy",31.6
+"Norway, Molde",20.86
+"Norway, Mosjoen",11.57
+"Norway, Moss",25.07
+"Norway, Odda",10.09
+"Norway, Orkanger",17.13
+"Norway, Oslo",69.07
+"Norway, Rorvik",8.68
+"Norway, Salten",12.52
+"Norway, Sauda",10.48
+"Norway, Stavanger",22.37
+"Norway, Stokmarknes",12.52
+"Norway, Stord",11.58
+"Norway, Sunndalsora",20.51
+"Norway, Svelgen",12.52
+"Norway, Svolvaer",13.83
+"Norway, Tananger",80.39
+"Norway, Tromso",13.83
+"Norway, Trondheim",28.52
+"Oman, Duqm",22.98
+"Oman, Salalah",269.4
+"Oman, Sohar",152.96
+"Pakistan, Gwadar",19.6
+"Pakistan, Karachi",259.56
+"Pakistan, Port Qasim",167.45
+"Palau, Koror",11.72
+"Panama, Almirante",35.85
+"Panama, Balboa",237.05
+"Panama, Coco Solo",26.49
+"Panama, Colon",147.03
+"Panama, Cristobal",150.72
+"Panama, Manzanillo (PA)",307.88
+"Panama, Panama",13.31
+"Panama, Rodman",145.62
+"Papua New Guinea, Alotau",9.79
+"Papua New Guinea, Buka",9.79
+"Papua New Guinea, Kimbe",31.03
+"Papua New Guinea, Lae",117.3
+"Papua New Guinea, Lihir Is",35.4
+"Papua New Guinea, Madang",46.15
+"Papua New Guinea, Motukea Island",39.17
+"Papua New Guinea, Oro Bay",6.89
+"Papua New Guinea, Port Moresby",76.75
+"Papua New Guinea, Rabaul",41.82
+"Papua New Guinea, Wewak",24.47
+"Paraguay, Asuncion",20.47
+"Peru, Callao",265.55
+"Peru, Ilo",20.01
+"Peru, Iquitos",12.2
+"Peru, Matarani",23.03
+"Peru, Paita",123.49
+"Peru, Pisco",17.18
+"Philippines, Bacolod",15.35
+"Philippines, Batangas",103.47
+"Philippines, Cagayan de Oro",133.85
+"Philippines, Cebu",144.97
+"Philippines, Cotabato",11.16
+"Philippines, Dadiangas",74.07
+"Philippines, Davao",139.33
+"Philippines, Dumaguete",16.1
+"Philippines, Iloilo",51.69
+"Philippines, Manila",383.27
+"Philippines, Mindanao Terminal",8.89
+"Philippines, Nasipit",8.84
+"Philippines, Ozamiz",11.36
+"Philippines, Polloc",9.61
+"Philippines, Puerto Princesa",9.53
+"Philippines, Roxas",8.84
+"Philippines, Subic Bay",87.84
+"Philippines, Surigao",8.84
+"Philippines, Tagbilaran",7.43
+"Philippines, Zamboanga",28.71
+"Poland, Gdansk",199.4
+"Poland, Gdynia",139.64
+"Poland, Swinoujscie",12.11
+"Poland, Szczecin",21.48
+"Portugal, Canical",24.44
+"Portugal, Figueira da Foz",10.47
+"Portugal, Flores",9.84
+"Portugal, Horta",12.94
+"Portugal, Leixoes",203.6
+"Portugal, Lisbon",149.79
+"Portugal, Pico",15.7
+"Portugal, Ponta Delgada",33.69
+"Portugal, Porto Santo",10.57
+"Portugal, Praia da Graciosa",10.39
+"Portugal, Praia da Vitoria",33.69
+"Portugal, Setubal",65.58
+"Portugal, Sines",223.56
+"Portugal, Velas",18.14
+"Portugal, Vila do Porto",9.44
+"Puerto Rico, San Juan",117.11
+"Qatar, Hamad",226.57
+"Qatar, Mesaieed",23.4
+"Republic of Korea, Daesan/Seosan",44.82
+"Republic of Korea, Incheon",378.92
+"Republic of Korea, Kunsan (Gunsan)",25.48
+"Republic of Korea, Kwangyang (Gwangyang)",479.24
+"Republic of Korea, Mokpo",18.21
+"Republic of Korea, Pohang",57.57
+"Republic of Korea, Pusan",1485.28
+"Republic of Korea, Pyeongaek",15.6
+"Republic of Korea, Pyongtaek",76.14
+"Republic of Korea, Ulsan",205.32
+"Republic of Moldova, Giurgiulesti",6.83
+"Reunion, Pointe des Galets",95.18
+"Romania, Constantza",138.44
+"Russian Federation, Archangel",5.59
+"Russian Federation, Bronka",23.18
+"Russian Federation, Dudinka",9.62
+"Russian Federation, Kaliningrad",49.14
+"Russian Federation, Korsakov",17.95
+"Russian Federation, Magadan",16.34
+"Russian Federation, Novorossijsk",156.53
+"Russian Federation, Petropavlovsk",13.81
+"Russian Federation, St Petersburg",192.79
+"Russian Federation, Ust Luga",22.96
+"Russian Federation, Vladivostok",129.93
+"Russian Federation, Vostochniy",87.68
+"Russian Federation, Zarubino",9
+"Saint Kitts and Nevis, Basseterre",29.74
+"Saint Kitts and Nevis, Charlestown",21.66
+"Saint Lucia, Port Castries",41.22
+"Saint Vincent and the Grenadines, Campden Park",30.91
+"Saint Vincent and the Grenadines, Kingstown",25.14
+"Samoa, Apia",69.9
+"Sao Tome and Principe, Sao Tome",27.31
+"Saudi Arabia, Dammam",228.78
+"Saudi Arabia, Jeddah",377.78
+"Saudi Arabia, Jubail",164.55
+"Saudi Arabia, King Abdullah",244.25
+"Saudi Arabia, Yanbu",15.71
+"Senegal, Dakar",126.92
+"Seychelles, Port Victoria",44.85
+"Sierra Leone, Freetown",34.62
+"Singapore, Singapore",1706.45
+"Sint Maarten (Dutch part), Philipsburg",77.81
+"Slovenia, Koper",151.91
+"Solomon Islands, Honiara",64.25
+"Solomon Islands, Noro",12.78
+"Somalia, Berbera",47.45
+"Somalia, Bossaso",11.18
+"Somalia, Kismayu",32.25
+"Somalia, Mogadiscio",53.49
+"South Africa, Cape Town",172.55
+"South Africa, Coega",95.42
+"South Africa, Durban",235.07
+"South Africa, East London",11.25
+"South Africa, Port Elizabeth",101.32
+"South Africa, Richards Bay",26.14
+"Spain, Algeciras",472.99
+"Spain, Alicante",46.09
+"Spain, Almeria",14.34
+"Spain, Arrecife",55.02
+"Spain, Barcelona",434.07
+"Spain, Bilbao",121.9
+"Spain, Cadiz",43.17
+"Spain, Cartagena (ES)",43.49
+"Spain, Castellon",97.57
+"Spain, Ferrol",33.56
+"Spain, Gijon",41.68
+"Spain, Huelva",32.62
+"Spain, Las Palmas",216.67
+"Spain, Malaga",46.86
+"Spain, Marin",10.52
+"Spain, Melilla",12.06
+"Spain, Puerto Del Rosario",31.2
+"Spain, Sagunto",34.64
+"Spain, Santa Cruz de la Palma",23.3
+"Spain, Santa Cruz de Tenerife",98.96
+"Spain, Santander",11.43
+"Spain, Seville",20.66
+"Spain, Tarragona",62.69
+"Spain, Valencia",534.22
+"Spain, Vigo",105.66
+"Spain, Villagarcia",15.23
+"Sri Lanka, Colombo",641.26
+"Sudan, Port Sudan",52.95
+"Suriname, Paramaribo",82.79
+"Sweden, Ahus",12.37
+"Sweden, Gavle",46.91
+"Sweden, Gothenburg",139.27
+"Sweden, Halmstad",25.22
+"Sweden, Helsinborg",76.7
+"Sweden, Karlstad",8.97
+"Sweden, Norrkoping",35.41
+"Sweden, Oskarshamn",15.88
+"Sweden, Oxelosund",23.35
+"Sweden, Pitea",12.37
+"Sweden, Sodertalje",21.41
+"Sweden, Stockholm",32.2
+"Sweden, Sundsvall",14.31
+"Sweden, Umea",14.31
+"Sweden, Varberg",13.87
+"Sweden, Vasteras",10.36
+"Syrian Arab Republic, Latakia",68.54
+"Syrian Arab Republic, Tartous",12.82
+"Thailand, Bangkok",260.2
+"Thailand, Laem Chabang",578.42
+"Thailand, Phuket",14.93
+"Thailand, Sahathai",30.19
+"Thailand, Songkhla",31.84
+"Thailand, Sriracha",17.3
+"Timor-Leste, Dili",28.28
+"Togo, Lome",212.07
+"Tonga, Nukualofa",60.42
+"Tonga, Vavau",11.32
+"Trinidad and Tobago, Point Lisas",82.19
+"Trinidad and Tobago, Port of Spain",96.37
+"Tunisia, Bizerta",30.19
+"Tunisia, Rades",9.83
+"Tunisia, Sfax",29.54
+"Tunisia, Sousse",13.56
+"Tunisia, Tunis",29.16
+"Turkiye, Aliaga (Nemrut)",253.71
+"Turkiye, Ambarli",339.49
+"Turkiye, Antalya",23.67
+"Turkiye, Bandirma",10.38
+"Turkiye, Derince",14.16
+"Turkiye, Diliskelesi",14.16
+"Turkiye, Eregli",14.16
+"Turkiye, Evyap Pt",110.27
+"Turkiye, Gebze",117.04
+"Turkiye, Gemlik",214.39
+"Turkiye, Haydarpasa",48.01
+"Turkiye, Iskenderun",196.45
+"Turkiye, Izmir",175.09
+"Turkiye, Izmit Korfezi",211.51
+"Turkiye, Kumport",73.46
+"Turkiye, Limas",11.97
+"Turkiye, Mardas",33.08
+"Turkiye, Marport",70.48
+"Turkiye, Mersin",331.15
+"Turkiye, Nemruth Bay",12.2
+"Turkiye, Samsun",29.93
+"Turkiye, Tekirdag",179.37
+"Turkiye, Trabzon",12.24
+"Turkiye, Yarimca",40.75
+"Turkiye, Yilport",29.47
+"Turks and Caicos Islands, Grand Turk",8.2
+"Tuvalu, Port Funafuti",8.71
+"Ukraine, Chornomorsk",53.51
+"Ukraine, Odessa",127.94
+"Ukraine, Yuzhny",60.56
+"United Arab Emirates, Abu Dhabi",25.63
+"United Arab Emirates, Ajman",30.01
+"United Arab Emirates, Jebel Ali",697.6
+"United Arab Emirates, Khalifa",347.69
+"United Arab Emirates, Khor Fakkan",64.53
+"United Arab Emirates, Ruwais",23.7
+"United Arab Emirates, Sharjah",103.95
+"United Arab Emirates, Umm al Qaiwain",12.91
+"United Kingdom, Aberdeen",23.91
+"United Kingdom, Belfast",30.61
+"United Kingdom, Blyth",9.05
+"United Kingdom, Bristol",50.02
+"United Kingdom, Dagenham",19.51
+"United Kingdom, Dover",19.4
+"United Kingdom, Felixstowe",275.31
+"United Kingdom, Fowey",11
+"United Kingdom, Grangemouth",44.4
+"United Kingdom, Greenock",58.06
+"United Kingdom, Hull",77.41
+"United Kingdom, Immingham",78.83
+"United Kingdom, Liverpool (GB)",148.6
+"United Kingdom, London Gateway",372.72
+"United Kingdom, Poole",9.43
+"United Kingdom, Portsmouth (GB)",29.31
+"United Kingdom, Scrabster",8.42
+"United Kingdom, Southampton",285.18
+"United Kingdom, Tees",91.4
+"United Kingdom, Thamesport",9.05
+"United Kingdom, Tilbury",170.01
+"United Kingdom, Tyne",17.6
+"United Republic of Tanzania, Dar es Salaam",95.41
+"United Republic of Tanzania, Zanzibar",28.52
+"United States Virgin Islands, St Croix",19.5
+"United States Virgin Islands, St Thomas",46.32
+"United States, Anchorage",14.08
+"United States, Baltimore",176.87
+"United States, Beaumont",14.18
+"United States, Boston (US)",65.92
+"United States, Brunswick",16.72
+"United States, Camden",31.72
+"United States, Charleston",336.07
+"United States, Chester",20.83
+"United States, Cleveland",7.56
+"United States, Corpus Christi",16.74
+"United States, Dutch Harbour",43.56
+"United States, Eastport",14.13
+"United States, Everett (US-WA)",20.45
+"United States, Fernandina",7.03
+"United States, Freeport (US)",48.12
+"United States, Galveston",13.75
+"United States, Gloucester City",6.89
+"United States, Gulfport",34.09
+"United States, Honolulu",75.82
+"United States, Houston",350.16
+"United States, Jacksonville",171.02
+"United States, Kodiak",14.08
+"United States, Long Beach",290.98
+"United States, Los Angeles",307.06
+"United States, Miami",192.7
+"United States, Mobile",109.01
+"United States, Morehead City",14.93
+"United States, New Orleans",229.4
+"United States, New York/New Jersey",451.82
+"United States, Norfolk",354.14
+"United States, Oakland",323.83
+"United States, Panama City",21.95
+"United States, Philadelphia",153.53
+"United States, Port Everglades",210.54
+"United States, Port Hueneme",34.86
+"United States, Port Manatee",26.49
+"United States, Portland (US-ME)",11.32
+"United States, Portland (US-OR)",35.79
+"United States, San Diego",15.82
+"United States, Savannah",426.29
+"United States, Seattle",169.86
+"United States, Stockton",13.54
+"United States, Tacoma",130.9
+"United States, Tampa",66.69
+"United States, Vancouver (US)",23.91
+"United States, West Palm Beach",37.08
+"United States, Wilmington (US-DE)",33.77
+"United States, Wilmington (US-NC)",141.06
+"Uruguay, Montevideo",204.7
+"Uruguay, Punta Pereyra",8.79
+"Vanuatu, Luganville",8.47
+"Vanuatu, Port Vila",49.97
+"Vanuatu, Santo",19.23
+"Venezuela (Bolivarian Rep. of), El Guamache",27.64
+"Venezuela (Bolivarian Rep. of), Guanta",42.72
+"Venezuela (Bolivarian Rep. of), Guaranao Bay",18.73
+"Venezuela (Bolivarian Rep. of), La Guaira",54.46
+"Venezuela (Bolivarian Rep. of), Maracaibo",42.11
+"Venezuela (Bolivarian Rep. of), Palua",10.71
+"Venezuela (Bolivarian Rep. of), Puerto Cabello",51.51
+"Venezuela (Bolivarian Rep. of), Puerto Sucre",10.71
+"Viet Nam, Chu Lai",45.04
+"Viet Nam, Da Nang",142.55
+"Viet Nam, Haiphong",499.5
+"Viet Nam, Ho Chi Minh City",547.75
+"Viet Nam, Nghi Son",12.3
+"Viet Nam, Qui Nhon",75
+"Viet Nam, Vung Tau",310.08
+"Yemen, Aden",33.42
+"Yemen, Mukalla",18.71
