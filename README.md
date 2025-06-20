@@ -80,3 +80,5 @@ Centrality metrics were calculated to identify key ports:
 1. Strategic hubs like Singapore dominate global shipping networks due to their geographic location and infrastructure.
 2. The network exhibits scale-free behavior with disassortative connectivity patterns typical of transportation systems.
 3. Weak modularity suggests interconnectedness across communities rather than strong segregation.
+4. China’s ports play a crucial role in maritime trade we simulated a targeted disruption of 90% of Chinese ports revealed that alternative ports, such as Colombo in Sri Lanka, rise in relative importance—showing latent strategic potential in the regional network.
+
